@@ -36,7 +36,7 @@
 
 
 #Region "Metodo abstracto que deberan implementar las clases hijas"
-    Public MustOverride Sub mostrar()
+    Public MustOverride Sub MostrarInformacion()
 #End Region
 
 End Class
